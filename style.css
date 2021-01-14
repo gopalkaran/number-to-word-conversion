@@ -18,6 +18,7 @@ section div{
 }
 section h2{
     text-align: center;
+    color: black;
 }
 section button{
     padding: 0.7rem 2rem;
@@ -37,11 +38,21 @@ section textarea{
     width: 80%;
     margin: 1rem auto;
     display: block;
+    padding: 1rem;
+    font-size: 1.2rem;
+}
+section #op{
+    color: black;
+    padding: 1rem;
+    font-size: 1.2rem;
 }
 footer{
     background-color: #45f;
     padding: 1.5rem;
 }
 footer h3{
+    text-align: center;
+}
+footer p{
     text-align: center;
 }
